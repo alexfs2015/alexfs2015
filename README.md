@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Àlex Fernández</h1>
-<h3 align="center">A techie since I was little!👶</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexfs2015&label=Profile%20views&color=0e75b6&style=flat" alt="alexfs2015" /> </p>
 
